@@ -1,7 +1,7 @@
 provider "aws" {
   region = "ap-south-1"
-      access_key = "AKIA36HAF5CTUHJU3POO"
-    secret_key = "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"
+      access_key = "access key"
+    secret_key = "secret key"
 }
 
 module "my_internet_gateway" {
